@@ -1,5 +1,5 @@
 #!/bin/bash
-# kali-ctf-bugbounty-super-setup.sh
+# kali_setup.sh
 
 set -e
 
@@ -132,5 +132,5 @@ sudo apt autoremove -y
 sudo apt clean
 
 echo "[*] === All Done ==="
-echo "Open a new terminal, select a Powerline font (like 'MesloLGS NF'), and enjoy your Kali CTF/Bug Bounty pre made setup."
+echo "Open a new terminal, select a Powerline font (like 'MesloLGS NF'), and enjoy your Kali premade setup."
 echo "Run 'p10k configure' in your first zsh shell to finish Powerlevel10k setup."
