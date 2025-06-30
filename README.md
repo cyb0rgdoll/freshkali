@@ -5,4 +5,4 @@ This script quickly sets up a fully loaded bug bounty/CTF environment on Kali Li
 ## Usage
 
 ```bash
-curl -fsSL https://raw.githubusercontent.com/yourusername/yourrepo/main/kali_ctf_setup.sh | bash
+curl -fsSL https://github.com/cyb0rgdoll/freshkali/blob/main/kali_setup.sh | bash
