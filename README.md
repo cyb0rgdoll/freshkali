@@ -1,7 +1,5 @@
-# freshkali
 
 #!/bin/bash
-# Modern Kali Linux CTF Setup Script
 
 set -e
 
